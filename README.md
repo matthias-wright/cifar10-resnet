@@ -51,7 +51,7 @@ print('Test accuracy: {}'.format(accuracy))
 
 
 <p align="center">
-  <img src="img/training_curve.jpg" width="500px" title="Training Curve">
+  <img src="img/training_curve.png" width="500px" title="Training Curve">
 </p>
 
 ## Results
